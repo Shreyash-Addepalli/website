@@ -1,0 +1,57 @@
+.regent {
+  color: #888888;
+  font-size: 64px;
+  line-height: 81.79px;
+}
+
+.growth {
+  color: #f4f2f3;
+  font-size: 64px;
+  line-height: 81.79px;
+}
+
+.scroller1 {
+  width: 100%;
+  height: 100vh;
+  background: #343235;
+}
+
+.rg1 {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.rg2 {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.rg3 {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.subscroll {
+  width: 100%;
+  height: 100vh;
+  overflow: scroll;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.subscr {
+  width: 100%;
+  height: 100vh;
+}
