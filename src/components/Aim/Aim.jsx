@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from "react";
 import "./Aim.css";
 import { useInView } from "react-intersection-observer";
 
-const Aim = () => {
+const Aim = () => { 
   const { ref, inView, entry } = useInView({
     threshold: 0.9,
   });
