@@ -1,0 +1,26 @@
+/* * {
+  scroll-snap-type: y mandatory;
+  font-family: "Bold";
+} */
+
+@font-face {
+  font-family: "ExtraLight"; /*Can be any text*/
+  src: local("Mont-ExtraLight"),
+    url("./fonts/Mont-ExtraLight.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Regular"; /*Can be any text*/
+  src: local("Mont-Regular"), url("./fonts/Mont-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Bold"; /*Can be any text*/
+  src: local("Mont-Bold"), url("./fonts/Mont-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "SBold"; /*Can be any text*/
+  src: local("Mont-SemiBold"),
+    url("./fonts/Mont-SemiBold.otf") format("opentype");
+}
