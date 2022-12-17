@@ -8,15 +8,15 @@ const Aim = () => {
   });
   return (
     <div className="scroller1">
-      <div
-        className="subscroll"
-        ref={ref}
-        style={
-          entry && entry.isIntersecting
-            ? { overflow: `scroll` }
-            : { overflow: `hidden` }
-        }
-      >
+//       <div
+//         className="subscroll"
+//         ref={ref}
+//         style={
+//           entry && entry.isIntersecting
+//             ? { overflow: `scroll` }
+//             : { overflow: `hidden` }
+//         }
+//       >
         <div className="rg1">
           <p className="regent">We see a world where </p>
           <p className="growth"> all growth is regenerative</p>
@@ -30,7 +30,7 @@ const Aim = () => {
           <p className="growth"> bridge the Web3-IRL gap</p>
         </div>
       </div>
-    </div>
+//     </div>
   );
 };
 
