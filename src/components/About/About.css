@@ -1,35 +1,34 @@
-.paraset {
+/* .paraset {
   width: 100%;
   height: 100vh;
-}
+} */
 
 .cont5 {
+  width: 100%;
+  height: 100vh;
   display: flex;
+  flex-direction: row;
   justify-content: center;
-  align-items: center;
-  margin: 120px 100px 180px 100px;
+  align-items: flex-start;
+  padding-top: 120px;
 }
 
 .strt1 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   width: 466px;
-  height: 532px;
+  line-height: 28px;
   margin-right: 120px;
   font-size: 20px;
+  font-family: "Montserrat";
+  font-weight: 400;
 }
 
 .strt2 {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  text-align: start;
   width: 494px;
-  height: 352px;
   top: 0;
-  right: 0;
-  bottom: 180px;
+  margin: 0;
   font-size: 80px;
   line-height: 88px;
-  padding-bottom: 100px;
+  font-family: "Montserrat";
+  font-weight: 700;
 }
