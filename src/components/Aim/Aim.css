@@ -14,6 +14,8 @@
   width: 100%;
   height: 100vh;
   background: #343235;
+  display:flex;
+  flex-direction:column;
 }
 
 .rg1 {
@@ -43,15 +45,5 @@
   align-items: center;
 }
 
-.subscroll {
-  width: 100%;
-  height: 100vh;
-  overflow: scroll;
-  overflow-x: hidden;
-  overflow-y: auto;
-}
 
-.subscr {
-  width: 100%;
-  height: 100vh;
-}
+
