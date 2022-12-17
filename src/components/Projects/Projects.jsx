@@ -32,6 +32,7 @@ const Projects = () => {
             style={{
               fontSize: `32px`,
               paddingTop: `17px`,
+              fontFamily: `Bold`,
             }}
           >
             proto
@@ -44,9 +45,12 @@ const Projects = () => {
             paddingTop: `51px`,
             textAlign: `left`,
             width: `291px`,
+            fontFamily: `Montserrat`,
+            fontWeight: `400`,
           }}
         >
-          Proto is an on-chain location based check-in application for{" "}
+          <strong style={{ fontFamily: `Bold` }}>Proto</strong> is an on-chain
+          location based check-in application for{" "}
           <span className="regen" style={{ color: `#14aede` }}>
             building decentralized lifelogs
           </span>{" "}
@@ -77,6 +81,7 @@ const Projects = () => {
             style={{
               fontSize: `32px`,
               paddingTop: `17px`,
+              fontFamily: `Bold`,
             }}
           >
             ostrom
@@ -89,9 +94,12 @@ const Projects = () => {
             paddingTop: `51px`,
             textAlign: `left`,
             width: `291px`,
+            fontFamily: `Montserrat`,
+            fontWeight: `400`,
           }}
         >
-          Ostrom is a community based development{" "}
+          <strong style={{ fontFamily: `Bold` }}>Ostrom</strong> is a community
+          based development{" "}
           <span className="regen" style={{ color: `#D2EE25` }}>
             solution for land regeneration.
           </span>{" "}
@@ -123,6 +131,7 @@ const Projects = () => {
             style={{
               fontSize: `32px`,
               paddingTop: `17px`,
+              fontFamily: `Bold`,
             }}
           >
             unic
@@ -135,9 +144,12 @@ const Projects = () => {
             paddingTop: `51px`,
             textAlign: `left`,
             width: `291px`,
+            fontFamily: `Montserrat`,
+            fontWeight: `400`,
           }}
         >
-          Unic is a Web3 native IoT solution for Impact and minimize{" "}
+          <strong style={{ fontFamily: `Bold` }}>Unic</strong> is a Web3 native
+          IoT solution for Impact and minimize{" "}
           <span className="regen" style={{ color: `#f9436f` }}>
             DMRV. Improve your Climate
           </span>{" "}
