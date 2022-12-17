@@ -51,7 +51,7 @@ function Navbar() {
                 </a>
               </li>
               <li className="nav-item">
-                <a href="#" className="nav-links" onClick={closeMobileMenu}>
+                <a href="#" className="nav-links1" onClick={closeMobileMenu}>
                   Ostrom
                 </a>
               </li>
