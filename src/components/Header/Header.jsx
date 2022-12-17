@@ -20,7 +20,12 @@ const Header = () => {
         de_plan is a<br /> network of
         <p
           className="transit"
-          style={{ fontSize: `80px`, fontWeight: `800`, color: `#343235` }}
+          style={{
+            fontSize: `64px`,
+            fontFamily: `Bold`,
+            fontWeight: `800`,
+            color: `#343235`,
+          }}
         >
           <ReactTextTransition springConfig={presets}>
             {TEXTS[index % TEXTS.length]}
