@@ -1,6 +1,6 @@
 .first {
-  background-image: url("../../assets/Topographic.png");
-/*   background-color: rgb(205, 203, 203); */
+ background-image: url("../../assets/Topographic_6.svg");
+  background-color: #f7f4f4;
   width: 100%;
   height: 100vh;
   display: flex;
