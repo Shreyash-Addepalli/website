@@ -32,31 +32,6 @@ const Header = () => {
           </ReactTextTransition>
         </p>
       </div>
-//       <div className="para2">
-//         <div
-//           className="vert"
-//           style={{
-//             width: `0`,
-//             height: `174px`,
-//             borderLeft: `2px solid black`,
-//             paddingRight: `40px`,
-//           }}
-//         ></div>
-//         <div
-//           className="fade-in-image"
-//           style={{
-//             height: `174px`,
-//             display: `flex`,
-//             justifyContent: `center`,
-//             textAlign: `left`,
-//             alignItems: `center`,
-//             width: `437px`,
-//           }}
-//         >
-//           We’re a global collective of Planners, Architects, Designers and
-//           Urbanists working on the future of Cities.
-//         </div>
-//       </div>
     </div>
   );
 };
