@@ -148,12 +148,12 @@ const Projects = () => {
             fontWeight: `400`,
           }}
         >
-          <strong style={{ fontFamily: `Bold` }}>Unic</strong> is a Web3 native
-          IoT solution for Impact and minimize{" "}
+         <strong style={{ fontFamily: `Bold` }}>Unic</strong> is a Web3 native
+          IoT solution for {" "}
           <span className="regen" style={{ color: `#f9436f` }}>
-            DMRV. Improve your Climate
+           DMRVImprove your Climate
           </span>{" "}
-          MRV efforts by using out of the box IoT.
+          Impact and minimize MRV efforts by using out of the box IoT.
         </div>
       </div>
     </div>
