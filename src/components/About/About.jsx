@@ -5,14 +5,9 @@ const About = () => {
     <>
       <div className="cont5">
         <div className="strt1">
-          de_plan has a simple goal, we want the spaces we inhabit to be planned
-          by the people who inhabit them. We believe the best mechanisms for
-          climate action are at the local/hyperlocal level. We believe the best
-          solutions to urban problems are at the community level. We believe
-          geospatial data is the first step toward this. And we believe that
-          Web3 is the coordination tool to enable these solutions.
+         At de_plan, we're on a mission to empower communities to shape the spaces they inhabit. From tackling climate action at a local level to finding solutions for urban issues, we believe that Web3 technology can help bring people together to make a difference. By using geospatial data and working at the hyperlocal level, we're dedicated to building solutions that bridge the gap between the online world and the real world.
         </div>
-        <div className="strt2">We’re design and planning DAO</div>
+        <div className="strt2">Places, Spaces and Climate, Reimagined for Web3</div>
       </div>
     </>
   );
