@@ -1,6 +1,7 @@
 import React from "react";
 import "./Footer.css";
 import {  FaInstagram, FaTwitter } from "react-icons/fa";
+import wordcel from "../../assets/wordcel.png";
 
 const Footer = () => {
   return (
@@ -12,9 +13,17 @@ const Footer = () => {
         <a href="https://twitter.com/de_planDAO">
           <FaTwitter />
         </a>
-//         <a href="https://t.me/akshay93aditya">
-//           <FaTelegram />
-//         </a>
+<a
+          onClick={() => {
+            window.open("https://www.wordcelclub.com/de-plan.sol");
+          }}
+        >
+          <img
+            src={wordcel}
+            alt="wordcel"
+            style={{ width: `25px`, height: `25px` }}
+          />
+        </a>
       </div>
       <ul className="list">
         <li>
