@@ -49,12 +49,11 @@ const Projects = () => {
             fontWeight: `400`,
           }}
         >
-          <strong style={{ fontFamily: `Bold` }}>Proto</strong> is an on-chain
-          location based check-in application for{" "}
+          <strong style={{ fontFamily: `Bold` }}>Proto</strong> is a spatial data registry with{" "}
           <span className="regen" style={{ color: `#14aede` }}>
-            building decentralized lifelogs
+            decentralized proof of location
           </span>{" "}
-          of user places, assets and movement.
+          and location based services on Solana.
         </div>
       </div>
       <div class="grid-child1">
@@ -103,8 +102,7 @@ const Projects = () => {
           <span className="regen" style={{ color: `#D2EE25` }}>
             solution for land regeneration.
           </span>{" "}
-          Build a community around shared ecosystem assets, and earn through
-          ecosystem services
+          We make environmental regeneration, financially viable in the global south.
         </div>
       </div>
       <div class="grid-child3">
@@ -148,12 +146,11 @@ const Projects = () => {
             fontWeight: `400`,
           }}
         >
-         <strong style={{ fontFamily: `Bold` }}>Unic</strong> is a Web3 native
-          IoT solution for {" "}
+         <strong style={{ fontFamily: `Bold` }}>Unic</strong> is a Web3 native {" "}
           <span className="regen" style={{ color: `#f9436f` }}>
-           DMRVImprove your Climate
+           IoT solution for DMRV
           </span>{" "}
-          Impact and minimize MRV efforts by using out of the box IoT.
+          We minimize MRV efforts by providing out of the box IoT.
         </div>
       </div>
     </div>
