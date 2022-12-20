@@ -7,10 +7,18 @@ const Footer = () => {
   return (
     <section className="footer">
       <div className="social">
-        <a href="https://www.instagram.com/de_plandao">
+        <a onClick={() => {
+              window.open(
+                "https://www.instagram.com/de_plandao"
+              );
+            }}>
           <FaInstagram />
         </a>
-        <a href="https://twitter.com/de_planDAO">
+        <a onClick={() => {
+              window.open(
+                "https://twitter.com/de_planDAO"
+              );
+            }}>
           <FaTwitter />
         </a>
 <a
