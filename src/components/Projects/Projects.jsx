@@ -32,7 +32,7 @@ const Projects = () => {
             style={{
               fontSize: `32px`,
               paddingTop: `17px`,
-              fontFamily: `Bold`,
+              fontFamily: `SBold`,
             }}
           >
             proto
@@ -81,7 +81,7 @@ const Projects = () => {
             style={{
               fontSize: `32px`,
               paddingTop: `17px`,
-              fontFamily: `Bold`,
+              fontFamily: `SBold`,
             }}
           >
             ostrom
@@ -131,7 +131,7 @@ const Projects = () => {
             style={{
               fontSize: `32px`,
               paddingTop: `17px`,
-              fontFamily: `Bold`,
+              fontFamily: `SBold`,
             }}
           >
             unic
